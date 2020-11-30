@@ -1,0 +1,9 @@
+chess==1.3.0
+cssselect2==0.4.1
+lxml==4.6.2
+Pillow==8.0.1
+python-chess==1.999
+reportlab==3.5.55
+svglib==1.0.1
+tinycss2==1.1.0
+webencodings==0.5.1
